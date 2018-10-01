@@ -1,0 +1,71 @@
+Corequisites?	Required?	Course code	Course name	Section	Days and times	Credits
+c		MATH 16000 LEC	Matrix Algebra	01-LEC	MoTh 2:45PM - 4:00PM	3
+		MATH 16000 LEC	Matrix Algebra	02-LEC	TuTh 8:25PM - 9:40PM	3
+		MATH 16000 LEC	Matrix Algebra	03-LEC	MoWe 7:00PM - 8:15PM	3
+c		STAT 21300 LEC	Introduction to Applied Statistics	01-LEC	Sa 9:10AM - 12:00PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	02-LEC	Sa 9:10AM - 12:00PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	03-LEC	Sa 12:10PM - 3:00PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	04-LEC	Sa 1:10PM - 4:00PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	05-LEC	MoWe 5:35PM - 6:50PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	06-LEC	MoWe 5:35PM - 6:50PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	07-LEC	MoWe 7:00PM - 8:15PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	08-LEC	MoWe 7:00PM - 8:15PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	09-LEC	MoWe 8:25PM - 9:40PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	10-LEC	TuTh 5:35PM - 6:50PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	11-LEC	TuTh 7:00PM - 8:15PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	12-LEC	TuTh 8:25PM - 9:40PM	3
+		STAT 21300 LEC	Introduction to Applied Statistics	13-LEC	MoWe 4:10PM - 5:25PM	3
+c	r	CSCI 13500 LEC	Software Analysis and Design 1	01-LEC	MoTh 8:10AM - 9:25AM	3
+		CSCI 13600 LAB	Supervised Programming Lab	01-LAB	Mo 12:45PM - 2:35PM	1
+		CSCI 13600 LAB	Supervised Programming Lab	02-LAB	We 8:10AM - 10:00AM	1
+		CSCI 13600 LAB	Supervised Programming Lab	03-LAB	Tu 2:10PM - 4:00PM	1
+		CSCI 13600 LAB	Supervised Programming Lab	04-LAB	We 10:10AM - 12:00PM	1
+		CSCI 13600 LAB	Supervised Programming Lab	06-LAB	We 2:10PM - 4:00PM	1
+		CSCI 13600 LAB	Supervised Programming Lab	07-LAB	We 12:10PM - 2:00PM	1
+		CSCI 13600 LAB	Supervised Programming Lab	08-LAB	Th 12:45PM - 2:35PM	1
+		CSCI 13600 LAB	Supervised Programming Lab	09-LAB	Th 7:00PM - 8:50PM	1
+c	r	CSCI 16000 LEC	Computer Architecture 1	01-LEC	TuTh 3:10PM - 4:25PM	3
+c		ENGL 22000 LEC	Introduction to Writing about Literature	01-LEC	TuFr 8:10AM - 9:25AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	03-LEC	TuFr 3:45PM - 5:00PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	04-LEC	MoTh 8:10AM - 9:25AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	05-LEC	MoTh 9:45AM - 11:00AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	06-LEC	TuFr 8:10AM - 9:25AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	07-LEC	TuFr 2:10PM - 3:25PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	08-LEC	TuWeFr 10:10AM - 11:00AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	09-LEC	TuFr 8:10AM - 9:25AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	10-LEC	Sa 12:10PM - 2:40PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	11-LEC	MoTh 2:45PM - 4:00PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	12-LEC	Sa 3:10PM - 5:40PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	13-LEC	TuFr 8:10AM - 9:25AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	14-LEC	TuFr 2:10PM - 3:25PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	16-LEC	TuFr 9:45AM - 11:00AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	17-LEC	MoTh 8:10AM - 9:25AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	19-LEC	TuTh 4:10PM - 5:25PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	20-LEC	MoWeTh 12:10PM - 1:00PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	21-LEC	TuFr 11:10AM - 12:25PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	23-LEC	MoWe 7:00PM - 8:15PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	24-LEC	MoTh 2:45PM - 4:00PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	25-LEC	Sa 9:10AM - 11:40AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	26-LEC	MoWe 8:25PM - 9:40PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	27-LEC	MoWe 5:35PM - 6:50PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	28-LEC	TuTh 7:00PM - 8:15PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	29-LEC	TuTh 7:00PM - 8:15PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	31-LEC	TuTh 8:25PM - 9:40PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	32-LEC	TuFr 12:45PM - 2:00PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	SCH1-LEC	TuFr 2:10PM - 3:25PM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	SCH2-LEC	MoTh 8:10AM - 9:25AM	3
+		ENGL 22000 LEC	Introduction to Writing about Literature	SCH3-LEC	MoWe 4:10PM - 5:25PM	3
+c		BIOL 30000 LEC	Biological Chemistry	01-LEC	MoWe 5:35PM - 6:50PM	3
+		BIOL 30000 LAB	Biological Chemistry	1L01-LAB	Mo 8:10AM - 12:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L02-LAB	Tu 8:10AM - 12:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L03-LAB	Th 8:10AM - 12:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L04-LAB	Fr 8:10AM - 12:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L05-LAB	Mo 1:10PM - 5:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L06-LAB	Tu 1:10PM - 5:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L07-LAB	Th 1:10PM - 5:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L08-LAB	Fr 1:10PM - 5:00PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L09-LAB	Mo 7:00PM - 10:50PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L10-LAB	Tu 6:00PM - 9:50PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L11-LAB	We 7:00PM - 10:50PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L12-LAB	Th 6:00PM - 9:50PM	1.5
+		BIOL 30000 LAB	Biological Chemistry	1L13-LAB	Fr 6:00PM - 9:50PM	1.5
