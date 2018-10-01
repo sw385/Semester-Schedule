@@ -6,8 +6,6 @@ Normally, the student needs to manually create schedules by examining the sectio
 
 The purpose of this program isn't necessarily to create the best possible schedule given a selection of courses, but it frees the student to focus on more important decisions. The program generates all possible schedules, eliminates schedules based on certain conditions, and ranks the remaining schedules based on how closely clustered the classes are. The higher ranked schedules are saved as images so that the student can see at a glance what kinds of schedules are possible.
 
-This program was written with CUNY students using the CUNY First course catalog in mind.
-
 ## Prerequisites
 
 In addition to the Python Standard Library, this program requires numpy and the Python Image Library (PIL) packages to work.
